@@ -1,4 +1,4 @@
-package com.example.socketdemo;
+package com.example.socketservice;
 
 import org.junit.Test;
 
